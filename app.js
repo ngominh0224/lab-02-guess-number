@@ -2,7 +2,7 @@ import { compareNumbers } from './utils.js';
 
 const finalMessage = document.getElementById('final-message');
 const numberGuessInput = document.getElementById('number-guess');
-const submitButton = document.getElementById('submit-button');
+const submitButton = document.getElementById('submitButton');
 const guessesRemaining = document.getElementById('guesses-remaining');
 const resetButton = document.getElementById('reset-button');
 
